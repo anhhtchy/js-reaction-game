@@ -25,8 +25,9 @@ body {
 .header {
   text-transform: uppercase;
   margin: 5px 0;
-  font-size: 12px;
-  color: #180f51;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
   width: 100%;
   text-align: center;
   height: 30px;
@@ -72,7 +73,7 @@ body {
   width: 20%;
   margin: 20px 2.5% 20px 2.5%;
   height: 100px;
-  background-color: orangered;
+  background-color: rgba(255, 0, 0, 0.6);
   color: white;
   float: left;
 }
